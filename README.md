@@ -1,1 +1,1 @@
-# lab-iot-coap-server-cli
+# coap-server
