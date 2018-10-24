@@ -1,0 +1,5 @@
+
+*.tree
+org.project.stormseeker/.metadata/.log
+org.project.stormseeker/.metadata/.lock
+org.project.stormseeker/.classpath
